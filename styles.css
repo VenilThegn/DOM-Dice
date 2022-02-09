@@ -7,7 +7,23 @@
 .dice {
   text-align: center;
   display: inline-block;
+}
 
+.btn {
+  position: relative;
+  left: 130px;
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 1.2rem;
+  font-family: 'Lobster', cursive;
+  font-weight: lighter;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 60px;
+  text-align: center;
+  margin: 10px;
+  background-color: lightblue;
 }
 
 body {
@@ -37,5 +53,4 @@ footer {
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
-
 }
